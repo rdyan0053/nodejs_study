@@ -6,3 +6,6 @@
 *.iml
 out
 gen
+
+# node module
+node_modules
